@@ -12,6 +12,9 @@
         <li class="nav-item">
           <a class="nav-link" href="{{route('about')}}">CHI SIAMO</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{route('contattaci')}}">CONTATTACI</a>
+        </li>
       </ul>
     </div>
   </div>
